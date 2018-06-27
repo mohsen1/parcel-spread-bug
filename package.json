@@ -1,0 +1,16 @@
+{
+  "name": "parcel-spread-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.9.3",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "scripts": {
+    "build": "parcel build index.html",
+    "test": "parcel build index.html"
+  }
+}
